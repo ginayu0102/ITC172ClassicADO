@@ -1,0 +1,36 @@
+﻿body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+}
+
+h1{
+    width:40%;
+    color:navy;
+
+}
+
+hr{
+    width:40%;
+    text-align:left;
+}
+
+table{
+    margin-top:3em;
+}
+
+table tr th{
+    background-color:navy;
+    color:white;
+    border:solid 2px black;
+}
+
+table tr td{
+    border:solid 2px black;
+    padding:4px 4px 4px 4px;
+}
+
+.list{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:medium;
+}
+
